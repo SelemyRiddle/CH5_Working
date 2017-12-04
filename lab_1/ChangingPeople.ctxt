@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ChangingPeople
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=p1\ p2\ age\ name
+comment2.target=void\ changePeople(Person,\ Person,\ int,\ java.lang.String)
+numComments=3
